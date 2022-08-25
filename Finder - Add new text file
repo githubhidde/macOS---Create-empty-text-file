@@ -1,0 +1,9 @@
+#!/bin/bash
+name="untitled text file"
+filename="$name.txt"
+num=0
+while [ -f "$1/$filename" ]; do
+    num=$(( $num + 1 ))
+    filename="$name.txt $num"
+done
+touch "$1/$filename"
