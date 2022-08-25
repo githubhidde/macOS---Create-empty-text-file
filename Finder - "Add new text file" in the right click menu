@@ -1,3 +1,5 @@
+# In the accompanying Youtube video I'll show you how to incoperate this Shell script in the Finder right click menu as a service.
+
 #!/bin/bash
 name="untitled text file"
 filename="$name.txt"
@@ -7,3 +9,4 @@ while [ -f "$1/$filename" ]; do
     filename="$name.txt $num"
 done
 touch "$1/$filename"
+
