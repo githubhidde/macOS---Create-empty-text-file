@@ -3,7 +3,7 @@
 #!/bin/bash
 name="untitled text file"
 filename="$name.txt"
-num=0
+num=1
 while [ -f "$1/$filename" ]; do
     num=$(( $num + 1 ))
     filename="$name.txt $num"
