@@ -1,4 +1,4 @@
-function GetPOSIXPath() {
+function run() {
 	var finder = Application('Finder');
 	finder.includeStandardAdditions = true;
 	
