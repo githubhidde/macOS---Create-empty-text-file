@@ -1,3 +1,6 @@
+// In the accompanying Youtube video I'll show you how to incoperate this Shell script in the Finder right click menu as a service.
+// URL Youtube video: https://youtu.be/hXnhEiz75Ks
+
 function run() {
 	var finder = Application('Finder');
 	finder.includeStandardAdditions = true;
