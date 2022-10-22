@@ -2,7 +2,7 @@
 
 Download the attached scripts to create this Shortcut to create empty text files, anywhere in Finder
 It's not needed to select a folder or whatsoever.
-See also the accompanying Youtube video: https://youtu.be/hXnhEiz75Ks
+See also the accompanying Youtube video: https://youtu.be/8b1Ei8HcTOs
 
 This is what you have to setup yourself in Shortcuts:
 <img width="919" alt="afbeelding" src="https://user-images.githubusercontent.com/77933473/194271206-11c78b36-8bda-4a9e-83e3-00d85104c565.png">
